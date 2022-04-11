@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/ariel-cian-952418224/)](https://www.linkedin.com/in/ariel-cian-952418224/)  
 
-I am a ***senior web developer***, with many years of experience in web and app development, mainly working on **`#PHP`**, **`#Javascript`**, **`#C#`**, and **`#Java`**.
+I am a ***senior web developer***, with many years of experience in web and app development, mainly working on **`PHP`**, **`Javascript`**, **`C#`**, and **`Java`**.
 
 In web development, I worked with different ***frontend frameworks*** such as `Vue`, `React`, `Angular`, `Next`, and `Lit-element`. I have experience working with ***backend frameworks*** such as `Laravel`, `Django`, `Spring` and `Express`. 
 
